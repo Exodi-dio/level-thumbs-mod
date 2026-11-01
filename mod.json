@@ -1,12 +1,12 @@
 {
-    "geode": "5.7.1",
+    "geode": "5.11.2",
     "gd": {
         "win": "2.2081",
-        "android": "2.2081",
+        "android": "2.2091",
         "mac": "2.2081",
         "ios": "2.2081"
     },
-    "version": "v2.6.1",
+    "version": "v2.6.2",
     "id": "cdc.level_thumbnails",
     "name": "Level Thumbnails",
     "developer": "cdc",
